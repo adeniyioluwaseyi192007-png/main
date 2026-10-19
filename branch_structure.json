@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-669-feat-cli-verify-silent-witness-proofs-offline",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-669-feat-cli-verify-silent-witness-proofs-offline": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-669-feat-cli-verify-silent-witness-proofs-offline",
+    "origin"
+  ]
+}
